@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-davidnogueira-red.svg)](https://www.linkedin.com/in/david-nogueira-2208b6125/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) (http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+[![author](https://img.shields.io/badge/author-davidnogueira-red.svg)](https://www.linkedin.com/in/david-nogueira-2208b6125/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1644325349124-d1756b79dd42?q=80&w=1775&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="imagem maneira relacionada ao projeto"height=400px >
