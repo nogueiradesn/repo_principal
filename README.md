@@ -8,9 +8,8 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Sciense
 
 ## Projetos
 
-Lista de projetos em COLAB
-
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+Lista de projetos:
+* [Analisando os dados do Airbnb para Denver](https://github.com/nogueiradesn/repo_principal/blob/main/Analisando_os_Dados_do_Airbnb_Denver.ipynb)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
