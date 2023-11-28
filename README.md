@@ -4,9 +4,11 @@
   <img src="https://images.unsplash.com/photo-1644325349124-d1756b79dd42?q=80&w=1775&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Meu Projeto Muito Top
+Aqui você encontra os notebooks dos meus projetos na área de Data Sciense
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+## Projetos
+
+Lista de projetos em COLAB
 
 [Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
