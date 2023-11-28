@@ -17,7 +17,7 @@ Lista de projetos:
 Sou engenheiro aeroespacial formado pelo ITA e trabalho no Centro de Operações Espaciais (COPE) como analista de Space Situation Awareness (SSA), em Brasília-DF. Influenciador digital com mais de 9 mil seguidores no Instagram no ramo de alta performance nos estudos.
 * Graduação em Engenharia Aeroespacial pelo ITA.
 * Certificações nível 1, 2 e 3 do System Tool Kit (STK) e do Orbit Determination Tool Kit (ODTK).
-* Curso de Joint Commercial Operations (JCO-200) pela Força Espacial Americana
+* Curso de Joint Commercial Operations (JCO-200) pela Força Espacial Americana.
 
 
 **Links para me acharem:**
