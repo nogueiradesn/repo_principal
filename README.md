@@ -11,21 +11,17 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Sciense
 Lista de projetos:
 * [Analisando os dados do Airbnb para Denver](https://github.com/nogueiradesn/repo_principal/blob/main/Analisando_os_Dados_do_Airbnb_Denver.ipynb)
 
+
+## Sobre mim:
+
+Sou engenheiro aeroespacial formado pelo ITA e trabalho no Centro de Operações Espaciais (COPE) como analista de Space Situation Awareness (SSA), em Brasília-DF. Influenciador digital com mais de 9 mil seguidores no Instagram no ramo de alta performance nos estudos.
+* Graduação em Engenharia Aeroespacial pelo ITA.
+* Certificações nível 1, 2 e 3 do System Tool Kit (STK) e do Orbit Determination Tool Kit (ODTK).
+* Curso de Joint Commercial Operations (JCO-200) pela Força Espacial Americana
+
+
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
-
-
-
-
-## Outros Projetos Meus:
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+* [LinkedIn](https://www.linkedin.com/in/david-nogueira-2208b6125/)
+* [Instagram](https://www.instagram.com/oiteanomilitar/)
+* [YouTube](https://www.youtube.com/@OIteanoMilitar?si=KMQkeKUUXZ1hA4bG/)
+* [Meu Site](https://www.oiteanomilitar.com)
